@@ -1,5 +1,6 @@
 package craft
 
+package craft
 /**
  * Token的类型
  */
